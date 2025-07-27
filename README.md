@@ -4,6 +4,13 @@ A fully responsive and dynamic IELTS Course product page built with **Next.js 15
 
 ---
 
+## 🔗 Live Demo
+
+Check out the live demo here:
+[https://10minuteschool-frontend-assessment.vercel.app/products/ielts-course/en](https://10minuteschool-frontend-assessment.vercel.app/products/ielts-course/en)
+
+---
+
 ## 🚀 How to Run
 
 ### ✅ Using Docker (Recommended)
